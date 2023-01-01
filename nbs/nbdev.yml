@@ -4,6 +4,6 @@ project:
 website:
   title: "Labrador-and-Golden-Retriever-Classifier"
   site-url: "https://jerryweijin.github.io/Labrador-and-Golden-Retriever-Classifier"
-  description: "A model to classifer golden retriever and labrador"
+  description: "A model to classify golden retriever and labrador"
   repo-branch: main
   repo-url: "https://github.com/jerryweijin/Labrador-and-Golden-Retriever-Classifier"
