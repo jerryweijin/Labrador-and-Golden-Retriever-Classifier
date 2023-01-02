@@ -14,3 +14,6 @@ label = gr.outputs.Label()
 
 interface = gr.Interface(fn=predict, inputs=image, outputs=label)
 interface.launch()
+
+def foo():
+    print("Hello")
